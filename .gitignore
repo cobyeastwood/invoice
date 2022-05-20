@@ -1,0 +1,4 @@
+node_modules
+coverage
+*.env*
+*halogen-pier-344523-712c18ab04ec.json*
