@@ -1,23 +1,24 @@
 # auto-inv [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+
 > automatic invoice maker
 
 ## Installation
 
 ```sh
-$ npm install --save auto-inv
+$ npm install --save auto-invoice
 ```
 
 ## Usage
 
 ```js
-const autoInv = require('auto-inv');
+const autoInvoice = require("auto-invoice");
 
-autoInv('Rainbow');
+autoInvoice("Rainbow");
 ```
+
 ## License
 
 MIT © [Coby Eastwood]()
-
 
 [npm-image]: https://badge.fury.io/js/auto-inv.svg
 [npm-url]: https://npmjs.org/package/auto-inv
