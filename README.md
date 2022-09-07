@@ -1,20 +1,5 @@
-# auto-invoice [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
-
-> automatic invoice maker
-
-## Installation
-
-```sh
-$ npm install --save auto-invoice
-```
-
-## Usage
-
-```js
-const autoInvoice = require("auto-invoice");
-
-autoInvoice("Rainbow");
-```
+# Invoice Generator
+An invoice generator for any future purposes.
 
 ## License
 
